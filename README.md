@@ -46,7 +46,7 @@
 
 ## 📫 Connect with Me
 
-* LinkedIn: (Add your LinkedIn profile link here later)
+* LinkedIn: https://www.linkedin.com/in/temitayo-martins-02065b276?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 * GitHub: https://github.com/Martenee
 
 ---
