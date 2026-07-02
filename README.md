@@ -53,7 +53,10 @@
 
 *"Transforming ideas into intelligent visual systems through AI and Computer Vision."*
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Temitayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martenee&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Martenee&show_icons=true&theme=tokyonight" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martenee&layout=compact&theme=tokyonight&cache_seconds=1800)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martenee&layout=compact&theme=tokyonight" />
+</p>
