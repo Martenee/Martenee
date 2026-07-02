@@ -1,4 +1,11 @@
 # Hi there, I'm Temitayo Martins 👋
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blue?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 🎓 MSc Artificial Intelligence Student at the University of Plymouth
 
@@ -45,3 +52,8 @@
 ---
 
 *"Transforming ideas into intelligent visual systems through AI and Computer Vision."*
+## 📊 GitHub Stats
+
+![Temitayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martenee&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Martenee&layout=compact&theme=tokyonight)
