@@ -41,7 +41,7 @@
 
 * Underwater Creature Tracking and Counting Using Computer Vision and Deep Learning
 * Computer Vision-Based Cup Game Judge for Pepper Robot
-* Real-Time Facial Emotion Recognition System
+* [Real-Time Facial Emotion Recognition System](https://github.com/Martenee/real-time-emotion-recognition.git)
 * A Hybrid Deep Learning Technique for Sarcasm Detection in Text
 
 ## 📫 Connect with Me
