@@ -9,7 +9,7 @@
 
 🎓 MSc Artificial Intelligence Student at the University of Plymouth
 
-🤖 Aspiring Computer Vision Engineer passionate about building intelligent systems capable of understanding and interpreting visual information.
+🤖 Computer Vision and AI Engineer focused on building intelligent vision systems using Deep Learning and Python.
 
 🔭 Currently working on:
 
@@ -52,11 +52,3 @@
 ---
 
 *"Transforming ideas into intelligent visual systems through AI and Computer Vision."*
-## 📊 GitHub Stats
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Martenee&show_icons=true&theme=tokyonight" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martenee&layout=compact&theme=tokyonight" />
-</p>
